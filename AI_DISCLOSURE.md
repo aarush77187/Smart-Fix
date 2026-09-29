@@ -1,10 +1,10 @@
 # AI Usage DISCLOSURE FORM
 
 ## 1. Team Details
-- **Team Name:** MSRIT_SmartFix
+- **Team Name:** MSRIT_SMARTFIX
 - **Project / Product Name:** Smart Guided Troubleshooting Engine (Theme 02)
-- **Organization / Institution (if any):** M.S. Ramaiah Institute of Technology
-- **Submission Date:** September 29, 2026
+- **Organization / Institution (if any):** MS Ramaiah Institute of Technology
+- **Submission Date:** September 30, 2026
 
 ---
 
@@ -97,7 +97,7 @@
 ---
 
 ## 6. Declaration & Sign-Off
-- **Name of Team Representative:** [Enter Name]
+- **Name of Team Representative:** Aarush Mudgil
 - **Role:** Team Lead / Developer
-- **Signature:** [Enter Digital or Written Signature]
+- **Signature:** Aarush Mudgil
 - **Date:** September 29, 2026
