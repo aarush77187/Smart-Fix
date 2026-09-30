@@ -47,7 +47,7 @@
   - *Modification:* Implemented a hardcoded guard (`NoReferenceTextError`) that aborts extraction when reference text is empty to prevent ungrounded hallucination; implemented a programmatic bracket-repair tokenizer in `app/llm.py` to recover valid JSON from stray brackets without altering content.
 
 ### Feature 2: Anti-Hallucination Deeplink Matcher (`app/matcher.py` & `app/assembler.py`)
-- **Self-Generated / AI-Generated / Both:** Self-Generated (Assisted by AI for optimization)
+- **Self-Generated / AI-Generated / Both:** Both
 - **Description:**
   - *AI Tools/Platform Used:* Claude / Antigravity for code review and vector algebra assistance.
   - *Prompt Used:* None (100% deterministic non-LLM algorithm).
