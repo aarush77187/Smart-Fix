@@ -9,7 +9,7 @@ Parses a customer complaint + a raw internal-KB reference article (`siis_respons
 
 ## 📋 Hackathon Submission Deliverables
 
-- **Presentation (PPTX):** [`MS_Ramaiah Institute of Technology._MSRIT_SmartFix__Submission_ppt.pptx`](MS_Ramaiah%20Institute%20of%20Technology._MSRIT_SmartFix__Submission_ppt.pptx)
+- **Presentation (PPTX):** [`MS_Ramaiah Institute of Technology._MSRIT_SmartFix__Submission_ppt.pptx`](MSRIT_SmartFix_Submission_ppt.pptx)
 - **Demo Video:** [Watch Demo Video on Google Drive](https://drive.google.com/drive/folders/19F6xwTE1ZxT-JhygwhOUABaD-rETMz_4)
 - **AI Disclosure:** [`AI_DISCLOSURE.md`](AI_DISCLOSURE.md)
 - **Evaluation Report:** [`metrics.md`](metrics.md) (100% schema compliance, 20/20 resolved, $0.00046 avg cost)
